@@ -1,7 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, SafeAreaView, ScrollView } from 'react-native';
 import React, { useState, useEffect } from 'react';
-import { List, TextInput, ListAccordion, Button, Modal, Portal, Text, Provider, DefaultTheme } from 'react-native-paper';
+import { List, TextInput, Button, Modal, Portal, Text, Provider, DefaultTheme } from 'react-native-paper';
 import { TextInputMask } from 'react-native-masked-text';
 
 const theme = {
